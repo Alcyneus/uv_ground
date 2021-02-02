@@ -1,4 +1,4 @@
-# Install script for directory: /home/ls/Documents/UV_PROJECT/plutosdrTemplate1/test/utils/catch
+# Install script for directory: /home/ls/Documents/UV/uv_ground/test/utils/catch
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

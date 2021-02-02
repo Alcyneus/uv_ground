@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/test/testApplication.cpp" "/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/build/test/CMakeFiles/test.dir/testApplication.cpp.o"
+  "/home/ls/Documents/UV/uv_ground/test/testApplication.cpp" "/home/ls/Documents/UV/uv_ground/build/test/CMakeFiles/test.dir/testApplication.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -56,7 +56,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/build/src/headers/src/common/iio/baseband/basebandInit/CMakeFiles/basebandInit.dir/DependInfo.cmake"
+  "/home/ls/Documents/UV/uv_ground/build/src/headers/src/common/iio/baseband/basebandInit/CMakeFiles/basebandInit.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

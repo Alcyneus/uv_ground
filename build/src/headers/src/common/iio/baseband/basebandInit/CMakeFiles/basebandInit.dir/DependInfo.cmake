@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/headers/src/common/iio/baseband/basebandInit/baseband_param_calc.c" "/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/build/src/headers/src/common/iio/baseband/basebandInit/CMakeFiles/basebandInit.dir/baseband_param_calc.c.o"
-  "/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/headers/src/common/iio/baseband/basebandInit/uv_config.c" "/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/build/src/headers/src/common/iio/baseband/basebandInit/CMakeFiles/basebandInit.dir/uv_config.c.o"
+  "/home/ls/Documents/UV/uv_ground/src/headers/src/common/iio/baseband/basebandInit/baseband_param_calc.c" "/home/ls/Documents/UV/uv_ground/build/src/headers/src/common/iio/baseband/basebandInit/CMakeFiles/basebandInit.dir/baseband_param_calc.c.o"
+  "/home/ls/Documents/UV/uv_ground/src/headers/src/common/iio/baseband/basebandInit/uv_config.c" "/home/ls/Documents/UV/uv_ground/build/src/headers/src/common/iio/baseband/basebandInit/CMakeFiles/basebandInit.dir/uv_config.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

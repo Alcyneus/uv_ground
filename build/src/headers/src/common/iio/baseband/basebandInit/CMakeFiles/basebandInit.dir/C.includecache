@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/headers/src/common/iio/baseband/basebandInit/baseband_param_calc.c
+/home/ls/Documents/UV/uv_ground/src/headers/src/common/iio/baseband/basebandInit/baseband_param_calc.c
 stdlib.h
 -
 math.h
 -
 baseband_param_calc.h
-/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/headers/src/common/iio/baseband/basebandInit/baseband_param_calc.h
+/home/ls/Documents/UV/uv_ground/src/headers/src/common/iio/baseband/basebandInit/baseband_param_calc.h
 
-/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/headers/src/common/iio/baseband/basebandInit/baseband_param_calc.h
+/home/ls/Documents/UV/uv_ground/src/headers/src/common/iio/baseband/basebandInit/baseband_param_calc.h
 stdint.h
 -
 
-/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/headers/src/common/iio/baseband/basebandInit/uv_config.c
+/home/ls/Documents/UV/uv_ground/src/headers/src/common/iio/baseband/basebandInit/uv_config.c
 fcntl.h
 -
 sys/types.h
@@ -28,9 +28,9 @@ sys/stat.h
 sys/mman.h
 -
 uv_config.h
-/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/headers/src/common/iio/baseband/basebandInit/uv_config.h
+/home/ls/Documents/UV/uv_ground/src/headers/src/common/iio/baseband/basebandInit/uv_config.h
 
-/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/headers/src/common/iio/baseband/basebandInit/uv_config.h
+/home/ls/Documents/UV/uv_ground/src/headers/src/common/iio/baseband/basebandInit/uv_config.h
 stdlib.h
 -
 stdbool.h
@@ -50,7 +50,7 @@ pthread.h
 math.h
 -
 baseband_param_calc.h
-/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/headers/src/common/iio/baseband/basebandInit/baseband_param_calc.h
+/home/ls/Documents/UV/uv_ground/src/headers/src/common/iio/baseband/basebandInit/baseband_param_calc.h
 iio.h
-/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/headers/src/common/iio/baseband/basebandInit/iio.h
+/home/ls/Documents/UV/uv_ground/src/headers/src/common/iio/baseband/basebandInit/iio.h
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/ls/Documents/UV_PROJECT/plutosdrTemplate1/test
+# Install script for directory: /home/ls/Documents/UV/uv_ground/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,8 +44,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/build/test/utils/catch/cmake_install.cmake")
-  include("/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/build/test/utils/tcpClient/cmake_install.cmake")
+  include("/home/ls/Documents/UV/uv_ground/build/test/utils/catch/cmake_install.cmake")
+  include("/home/ls/Documents/UV/uv_ground/build/test/utils/tcpClient/cmake_install.cmake")
 
 endif()
 

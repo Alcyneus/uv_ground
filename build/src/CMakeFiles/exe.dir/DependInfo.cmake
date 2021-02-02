@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/Application.cpp" "/home/ls/Documents/UV_PROJECT/plutosdrTemplate1/build/src/CMakeFiles/exe.dir/Application.cpp.o"
+  "/home/ls/Documents/UV/uv_ground/src/Application.cpp" "/home/ls/Documents/UV/uv_ground/build/src/CMakeFiles/exe.dir/Application.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/ls/Documents/UV_PROJECT/plutosdrTemplate1/src/headers/src/common/iio/baseband/basebandInit
+# Install script for directory: /home/ls/Documents/UV/uv_ground/src/headers/src/common/iio/baseband/basebandInit
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
