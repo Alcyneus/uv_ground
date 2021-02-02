@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../../../../lib/libbasebandInit.a CMakeFiles/basebandInit.dir/baseband_param_calc.c.o CMakeFiles/basebandInit.dir/uv_config.c.o
+/usr/bin/ranlib ../../../../../../../lib/libbasebandInit.a

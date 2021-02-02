@@ -1,0 +1,1 @@
+/opt/Xilinx/SDK/2018.3/gnu/aarch32/lin/gcc-arm-linux-gnueabi/bin/arm-linux-gnueabihf-g++ --sysroot=/opt/Xilinx/SDK/2018.3/gnu/aarch32/lin/gcc-arm-linux-gnueabi/sysroot -std=c++11 -O3 CMakeFiles/exe.dir/Application.cpp.o -o bin/exe  -lpthread 
